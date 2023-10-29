@@ -1,3 +1,3 @@
 # Resume
 
-[Resume](Resume.pdf)
+[Resume](Ghini_CV.pdf)
